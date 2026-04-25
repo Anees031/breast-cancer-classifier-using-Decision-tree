@@ -207,7 +207,7 @@ Potential enhancements:
 
 ## 👨‍💻 Author
 
-ML Project - 2026
+Anees Ur Rehman
 
 ## 📄 License
 
